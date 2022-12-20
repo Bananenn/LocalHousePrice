@@ -3,6 +3,7 @@ import json
 import matplotlib.pyplot as plt
 import matplotlib
 import numpy as np
+from scipy.ndimage.filters import gaussian_filter
 
 import matplotlib.cbook as cbook
 import matplotlib.image as image
@@ -52,18 +53,21 @@ def normalize(arr, t_min, t_max):
         norm_arr.append(temp)
     return norm_arr
 
-
 def printCoordinatesOnmap():
   with open('tempJSON2.txt') as f:
       data = f.read()
       
-
   json_object = json.loads(data)
 
   lat_long = []
+  weights = []
   for obj in json_object[1:]:
-    lat_long.append([obj['latitude'],obj['longitude']])
-    print(obj["streetAddress"])
+    try:
+      sqmP = ''.join(c for c in obj["soldSqmPrice"]["formatted"] if c in "1234567890")
+      weights.append(int(sqmP))
+      lat_long.append([obj['latitude'],obj['longitude']])
+    except:
+      print(" -- Wopsie --")
 
   lat_long = np.array(lat_long)
   lat_long
@@ -73,9 +77,17 @@ def printCoordinatesOnmap():
   im = image.imread(datafile)
 #                                           (left, right, bottom, top)
   myaximage = plt.imshow(im, alpha=0.5, zorder=-1, origin='lower') 
-  plt.scatter(x=normalize(lat_long[:,1],0, 570), y=normalize(lat_long[:,0], 0, 704),marker=".")
-  #ax = plt.gca()
-  #ax.set_aspect('equal' , adjustable='box')
+  x = np.rint(normalize(lat_long[:,1],0, 570))
+  y = np.rint(normalize(lat_long[:,0], 0, 704))
+  test = np.zeros((570,704))
+  print(" -- ", len(x))
+  for xi,yi,i in zip(x,y,range(len(x))):
+    test[int(xi)][int(yi)] = weights[i]
+
+  print(test)
+  plt.scatter(x, y,marker=".", c=weights, cmap="cool")
+
+
   plt.grid()
   plt.show()
   """
