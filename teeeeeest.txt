@@ -1,0 +1,1326 @@
+[{
+  "booliId": "4698908",
+  "daysActive": 163,
+  "descriptiveAreaName": "Teleborg",
+  "latitude": 56.83994313,
+  "listPrice": null,
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "109 m\u00b2"
+  },
+  "longitude": 14.79928249,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "4 rum"
+  },
+  "soldDate": "2022-12-09",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 950 000 kr",
+    "raw": 1950000,
+    "unit": "kr",
+    "value": "1 950 000"
+  },
+  "soldPriceAbsoluteDiff": null,
+  "soldPricePercentageDiff": null,
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "17 900 kr/m\u00b2"
+  },
+  "streetAddress": "Skiftesv\u00e4gen 41",
+  "url": "/annons/4698908"
+},{
+  "booliId": "4795012",
+  "daysActive": 70,
+  "descriptiveAreaName": "Teleborg",
+  "latitude": 56.846601,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 500 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "108 m\u00b2"
+  },
+  "longitude": 14.806279,
+  "objectType": "Villa",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "6 rum"
+  },
+  "soldDate": "2022-12-16",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 200 000 kr",
+    "raw": 2200000,
+    "unit": "kr",
+    "value": "2 200 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-300 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-12 %",
+    "raw": -12
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "20 400 kr/m\u00b2"
+  },
+  "streetAddress": "Lotusv\u00e4gen 9",
+  "url": "/bostad/2534057"
+},{
+  "booliId": "-10198601",
+  "daysActive": null,
+  "descriptiveAreaName": "V\u00e4xj\u00f6",
+  "latitude": 56.886576,
+  "listPrice": null,
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "163 m\u00b2"
+  },
+  "longitude": 14.805802,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-10-28",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "4 600 000 kr",
+    "raw": 4600000,
+    "unit": "kr",
+    "value": "4 600 000"
+  },
+  "soldPriceAbsoluteDiff": null,
+  "soldPricePercentageDiff": null,
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "28 200 kr/m\u00b2"
+  },
+  "streetAddress": "Ringsbergsv\u00e4gen 4",
+  "url": "/bostad/1837662"
+},{
+  "booliId": "4731854",
+  "daysActive": 20,
+  "descriptiveAreaName": "Gamla Norr",
+  "latitude": 56.891394,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 400 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "122 m\u00b2"
+  },
+  "longitude": 14.819416,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-30",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 350 000 kr",
+    "raw": 3350000,
+    "unit": "kr",
+    "value": "3 350 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-50 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-1.5 %",
+    "raw": -1.5
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "27 500 kr/m\u00b2"
+  },
+  "streetAddress": "Apelv\u00e4gen 8",
+  "url": "/bostad/1475652"
+},{
+  "booliId": "-10198169",
+  "daysActive": null,
+  "descriptiveAreaName": "V\u00e4xj\u00f6",
+  "latitude": 56.838413,
+  "listPrice": null,
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "172 m\u00b2"
+  },
+  "longitude": 14.804773,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-12-01",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 370 000 kr",
+    "raw": 3370000,
+    "unit": "kr",
+    "value": "3 370 000"
+  },
+  "soldPriceAbsoluteDiff": null,
+  "soldPricePercentageDiff": null,
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "19 600 kr/m\u00b2"
+  },
+  "streetAddress": "S\u00e4terv\u00e4gen 7",
+  "url": "/bostad/2540544"
+},{
+  "booliId": "4843123",
+  "daysActive": 20,
+  "descriptiveAreaName": "H\u00f6gstorp",
+  "latitude": 56.874622,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 295 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "115 m\u00b2"
+  },
+  "longitude": 14.843436,
+  "objectType": "Radhus",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "5 rum"
+  },
+  "soldDate": "2022-12-16",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 100 000 kr",
+    "raw": 2100000,
+    "unit": "kr",
+    "value": "2 100 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-195 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-8.5 %",
+    "raw": -8.5
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "18 300 kr/m\u00b2"
+  },
+  "streetAddress": "Domherrev\u00e4gen 25",
+  "url": "/annons/4843123"
+},{
+  "booliId": "4619046",
+  "daysActive": 185,
+  "descriptiveAreaName": "V\u00e4ster",
+  "latitude": 56.881881,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "6 750 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "150 m\u00b2"
+  },
+  "longitude": 14.796423,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-12-02",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "6 350 000 kr",
+    "raw": 6350000,
+    "unit": "kr",
+    "value": "6 350 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-400 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-5.9 %",
+    "raw": -5.9
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "42 300 kr/m\u00b2"
+  },
+  "streetAddress": "Folkungagatan 16",
+  "url": "/bostad/2539403"
+},{
+  "booliId": "4759797",
+  "daysActive": 18,
+  "descriptiveAreaName": "\u00d6jaby",
+  "latitude": 56.892801,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 100 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "154 m\u00b2"
+  },
+  "longitude": 14.736583,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-30",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 000 000 kr",
+    "raw": 3000000,
+    "unit": "kr",
+    "value": "3 000 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-100 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-3.2 %",
+    "raw": -3.2
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "19 500 kr/m\u00b2"
+  },
+  "streetAddress": "Fornv\u00e4gen 31",
+  "url": "/bostad/2505160"
+},{
+  "booliId": "4843417",
+  "daysActive": 20,
+  "descriptiveAreaName": "Norreg\u00e5rd",
+  "latitude": 56.89679,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 250 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "80 m\u00b2"
+  },
+  "longitude": 14.80302,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "3 rum"
+  },
+  "soldDate": "2022-12-15",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 280 000 kr",
+    "raw": 1280000,
+    "unit": "kr",
+    "value": "1 280 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+30 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+2.4 %",
+    "raw": 2.4
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "16 000 kr/m\u00b2"
+  },
+  "streetAddress": "Norreg\u00e5rdsv\u00e4gen 9B",
+  "url": "/bostad/44356"
+},{
+  "booliId": "4663178",
+  "daysActive": 197,
+  "descriptiveAreaName": "Sandsbro",
+  "latitude": 56.914574,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "5 250 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "138 m\u00b2"
+  },
+  "longitude": 14.857069,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "4 rum"
+  },
+  "soldDate": "2022-12-14",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "5 250 000 kr",
+    "raw": 5250000,
+    "unit": "kr",
+    "value": "5 250 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "\u00b10 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+/-0 %",
+    "raw": 0
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "38 100 kr/m\u00b2"
+  },
+  "streetAddress": "Fyllerydsv\u00e4gen 2",
+  "url": "/annons/4663178"
+},{
+  "booliId": "4817030",
+  "daysActive": 47,
+  "descriptiveAreaName": "Hovshaga",
+  "latitude": 56.9067133,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 250 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "103 m\u00b2"
+  },
+  "longitude": 14.7966232,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "4 rum"
+  },
+  "soldDate": "2022-12-05",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 000 000 kr",
+    "raw": 2000000,
+    "unit": "kr",
+    "value": "2 000 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-250 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-11.1 %",
+    "raw": -11.1
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "19 400 kr/m\u00b2"
+  },
+  "streetAddress": "\u00c5ker\u00f6v\u00e4gen 36",
+  "url": "/annons/4817030"
+},{
+  "booliId": "4841918",
+  "daysActive": 13,
+  "descriptiveAreaName": "Centrum",
+  "latitude": 56.87986679,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 450 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "82 m\u00b2"
+  },
+  "longitude": 14.79237199,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "3 rum"
+  },
+  "soldDate": "2022-12-14",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 400 000 kr",
+    "raw": 2400000,
+    "unit": "kr",
+    "value": "2 400 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-50 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-2 %",
+    "raw": -2
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "29 300 kr/m\u00b2"
+  },
+  "streetAddress": "Wieselgrensgatan 1C",
+  "url": "/annons/4841918"
+},{
+  "booliId": "4802243",
+  "daysActive": 24,
+  "descriptiveAreaName": "Kampen",
+  "latitude": 56.868824,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 495 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "108\u00bd m\u00b2"
+  },
+  "longitude": 14.81717,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "4 rum"
+  },
+  "soldDate": "2022-12-09",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 495 000 kr",
+    "raw": 2495000,
+    "unit": "kr",
+    "value": "2 495 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "\u00b10 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+/-0 %",
+    "raw": 0
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "23 000 kr/m\u00b2"
+  },
+  "streetAddress": "Unamans v\u00e4g 7",
+  "url": "/bostad/4149980"
+},{
+  "booliId": "-10195399",
+  "daysActive": null,
+  "descriptiveAreaName": "V\u00e4xj\u00f6",
+  "latitude": 56.836465,
+  "listPrice": null,
+  "livingArea": null,
+  "longitude": 14.811945,
+  "objectType": "Tomt/Mark",
+  "rooms": null,
+  "soldDate": "2022-09-27",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 482 000 kr",
+    "raw": 1482000,
+    "unit": "kr",
+    "value": "1 482 000"
+  },
+  "soldPriceAbsoluteDiff": null,
+  "soldPricePercentageDiff": null,
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": null,
+  "streetAddress": "Martin Ekdahls gata 14",
+  "url": "/bostad/4325655"
+},{
+  "booliId": "4755356",
+  "daysActive": 35,
+  "descriptiveAreaName": "Hov",
+  "latitude": 56.893965,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "4 495 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "158 m\u00b2"
+  },
+  "longitude": 14.802825,
+  "objectType": "Kedjehus",
+  "rooms": null,
+  "soldDate": "2022-11-11",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "4 150 000 kr",
+    "raw": 4150000,
+    "unit": "kr",
+    "value": "4 150 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-345 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-7.7 %",
+    "raw": -7.7
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "26 300 kr/m\u00b2"
+  },
+  "streetAddress": "Antons v\u00e4g 6",
+  "url": "/bostad/1475089"
+},{
+  "booliId": "-10195015",
+  "daysActive": null,
+  "descriptiveAreaName": "V\u00e4xj\u00f6",
+  "latitude": 56.914895,
+  "listPrice": null,
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "179 m\u00b2"
+  },
+  "longitude": 14.801992,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-18",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "5 100 000 kr",
+    "raw": 5100000,
+    "unit": "kr",
+    "value": "5 100 000"
+  },
+  "soldPriceAbsoluteDiff": null,
+  "soldPricePercentageDiff": null,
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "28 500 kr/m\u00b2"
+  },
+  "streetAddress": "Olsbergsv\u00e4gen 49",
+  "url": "/bostad/1810403"
+},{
+  "booliId": "4736686",
+  "daysActive": 107,
+  "descriptiveAreaName": "\u00d6ster",
+  "latitude": 56.872619,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "4 495 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "127 m\u00b2"
+  },
+  "longitude": 14.832927,
+  "objectType": "Villa",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "4 rum"
+  },
+  "soldDate": "2022-12-10",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "4 100 000 kr",
+    "raw": 4100000,
+    "unit": "kr",
+    "value": "4 100 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-395 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-8.8 %",
+    "raw": -8.8
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "32 300 kr/m\u00b2"
+  },
+  "streetAddress": "Fr\u00f6v\u00e4gen 3",
+  "url": "/bostad/1585476"
+},{
+  "booliId": "4738656",
+  "daysActive": 20,
+  "descriptiveAreaName": "Hovshaga",
+  "latitude": 56.909082,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 200 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "97 m\u00b2"
+  },
+  "longitude": 14.784994,
+  "objectType": "Kedjehus",
+  "rooms": null,
+  "soldDate": "2022-11-24",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 200 000 kr",
+    "raw": 3200000,
+    "unit": "kr",
+    "value": "3 200 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "\u00b10 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+/-0 %",
+    "raw": 0
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "33 000 kr/m\u00b2"
+  },
+  "streetAddress": "Citadellv\u00e4gen 18",
+  "url": "/bostad/2504888"
+},{
+  "booliId": "4835825",
+  "daysActive": 21,
+  "descriptiveAreaName": "Vallen",
+  "latitude": 56.861168,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 795 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "63 m\u00b2"
+  },
+  "longitude": 14.807863,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "2 rum"
+  },
+  "soldDate": "2022-12-09",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 700 000 kr",
+    "raw": 1700000,
+    "unit": "kr",
+    "value": "1 700 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-95 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-5.3 %",
+    "raw": -5.3
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "27 000 kr/m\u00b2"
+  },
+  "streetAddress": "Sj\u00f6vallav\u00e4gen 14",
+  "url": "/annons/4835825"
+},{
+  "booliId": "4789313",
+  "daysActive": 70,
+  "descriptiveAreaName": "Norr",
+  "latitude": 56.89128244,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 295 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "100 m\u00b2"
+  },
+  "longitude": 14.82197089,
+  "objectType": "Villa",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "5 rum"
+  },
+  "soldDate": "2022-12-08",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 075 000 kr",
+    "raw": 3075000,
+    "unit": "kr",
+    "value": "3 075 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-220 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-6.7 %",
+    "raw": -6.7
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "30 800 kr/m\u00b2"
+  },
+  "streetAddress": "Lindv\u00e4gen 28",
+  "url": "/bostad/2503971"
+},{
+  "booliId": "4761023",
+  "daysActive": 21,
+  "descriptiveAreaName": "\u00d6stra Lugnet",
+  "latitude": 56.91767,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 900 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "74 m\u00b2"
+  },
+  "longitude": 14.808331,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "3 rum"
+  },
+  "soldDate": "2022-12-07",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 850 000 kr",
+    "raw": 1850000,
+    "unit": "kr",
+    "value": "1 850 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-50 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-2.6 %",
+    "raw": -2.6
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "25 000 kr/m\u00b2"
+  },
+  "streetAddress": "Jupiterv\u00e4gen 42A",
+  "url": "/annons/4761023"
+},{
+  "booliId": "4668115",
+  "daysActive": 13,
+  "descriptiveAreaName": "Teleborg",
+  "latitude": 56.847507,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 850 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "140 m\u00b2"
+  },
+  "longitude": 14.812431,
+  "objectType": "Radhus",
+  "rooms": null,
+  "soldDate": "2022-11-25",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 160 000 kr",
+    "raw": 3160000,
+    "unit": "kr",
+    "value": "3 160 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+310 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+10.9 %",
+    "raw": 10.9
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "22 600 kr/m\u00b2"
+  },
+  "streetAddress": "Klangens v\u00e4g 46",
+  "url": "/bostad/2521199"
+},{
+  "booliId": "4818190",
+  "daysActive": 41,
+  "descriptiveAreaName": "Hov",
+  "latitude": 56.896873,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 495 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "80 m\u00b2"
+  },
+  "longitude": 14.80417,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "3 rum"
+  },
+  "soldDate": "2022-12-08",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 350 000 kr",
+    "raw": 1350000,
+    "unit": "kr",
+    "value": "1 350 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-145 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-9.7 %",
+    "raw": -9.7
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "16 900 kr/m\u00b2"
+  },
+  "streetAddress": "Norreg\u00e5rdsv\u00e4gen 13B",
+  "url": "/annons/4818190"
+},{
+  "booliId": "4650152",
+  "daysActive": 5,
+  "descriptiveAreaName": "\u00d6stra Lugnet",
+  "latitude": 56.91383,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "6 750 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "213 m\u00b2"
+  },
+  "longitude": 14.810292,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-15",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "6 800 000 kr",
+    "raw": 6800000,
+    "unit": "kr",
+    "value": "6 800 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+50 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+0.7 %",
+    "raw": 0.7
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "31 900 kr/m\u00b2"
+  },
+  "streetAddress": "Aniarav\u00e4gen 10",
+  "url": "/bostad/2049250"
+},{
+  "booliId": "4829485",
+  "daysActive": 25,
+  "descriptiveAreaName": "H\u00f6gstorp",
+  "latitude": 56.87805025,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 400 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "110 m\u00b2"
+  },
+  "longitude": 14.84261747,
+  "objectType": "Villa",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "4 rum"
+  },
+  "soldDate": "2022-11-30",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 000 000 kr",
+    "raw": 3000000,
+    "unit": "kr",
+    "value": "3 000 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-400 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-11.8 %",
+    "raw": -11.8
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "27 300 kr/m\u00b2"
+  },
+  "streetAddress": "Bofinksv\u00e4gen 2",
+  "url": "/bostad/2523505"
+},{
+  "booliId": "4791969",
+  "daysActive": 57,
+  "descriptiveAreaName": "Centrum",
+  "latitude": 56.88329,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 225 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "67 m\u00b2"
+  },
+  "longitude": 14.800038,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "3 rum"
+  },
+  "soldDate": "2022-11-30",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 025 000 kr",
+    "raw": 2025000,
+    "unit": "kr",
+    "value": "2 025 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-200 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-9 %",
+    "raw": -9
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "30 200 kr/m\u00b2"
+  },
+  "streetAddress": "Liedbergsgatan 39",
+  "url": "/annons/4791969"
+},{
+  "booliId": "4603529",
+  "daysActive": 25,
+  "descriptiveAreaName": "\u00d6ster",
+  "latitude": 56.873062,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "5 750 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "149 m\u00b2"
+  },
+  "longitude": 14.828298,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-15",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "5 750 000 kr",
+    "raw": 5750000,
+    "unit": "kr",
+    "value": "5 750 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "\u00b10 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+/-0 %",
+    "raw": 0
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "38 600 kr/m\u00b2"
+  },
+  "streetAddress": "Stj\u00e4rnv\u00e4gen 15",
+  "url": "/bostad/1915302"
+},{
+  "booliId": "-10192433",
+  "daysActive": null,
+  "descriptiveAreaName": "V\u00e4xj\u00f6",
+  "latitude": 56.852474,
+  "listPrice": null,
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "112 m\u00b2"
+  },
+  "longitude": 14.805847,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-01",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "4 000 000 kr",
+    "raw": 4000000,
+    "unit": "kr",
+    "value": "4 000 000"
+  },
+  "soldPriceAbsoluteDiff": null,
+  "soldPricePercentageDiff": null,
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "35 700 kr/m\u00b2"
+  },
+  "streetAddress": "Vall\u00f6rtsv\u00e4gen 4",
+  "url": "/bostad/2511052"
+},{
+  "booliId": "4740098",
+  "daysActive": 19,
+  "descriptiveAreaName": "Hovshaga",
+  "latitude": 56.9102,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "4 650 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "193 m\u00b2"
+  },
+  "longitude": 14.787155,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-21",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "4 750 000 kr",
+    "raw": 4750000,
+    "unit": "kr",
+    "value": "4 750 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+100 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "+2.2 %",
+    "raw": 2.2
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "24 600 kr/m\u00b2"
+  },
+  "streetAddress": "Rondellv\u00e4gen 2",
+  "url": "/bostad/2162685"
+},{
+  "booliId": "4549868",
+  "daysActive": 38,
+  "descriptiveAreaName": "Centrum",
+  "latitude": 56.881294,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 895 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "72\u00bd m\u00b2"
+  },
+  "longitude": 14.80544,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "3 rum"
+  },
+  "soldDate": "2022-12-05",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 775 000 kr",
+    "raw": 1775000,
+    "unit": "kr",
+    "value": "1 775 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-120 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-6.3 %",
+    "raw": -6.3
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "24 600 kr/m\u00b2"
+  },
+  "streetAddress": "B\u00e4ckgatan 23B",
+  "url": "/annons/4549868"
+},{
+  "booliId": "4765447",
+  "daysActive": 71,
+  "descriptiveAreaName": "V\u00e4lludden",
+  "latitude": 56.858696,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 600 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "64 m\u00b2"
+  },
+  "longitude": 14.816074,
+  "objectType": "L\u00e4genhet",
+  "rooms": {
+    "__typename": "FormattedValue",
+    "formatted": "2 rum"
+  },
+  "soldDate": "2022-12-02",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "1 550 000 kr",
+    "raw": 1550000,
+    "unit": "kr",
+    "value": "1 550 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-50 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-3.1 %",
+    "raw": -3.1
+  },
+  "soldPriceType": "Slutpris",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "24 200 kr/m\u00b2"
+  },
+  "streetAddress": "G\u00f6sta Edstr\u00f6ms v\u00e4g 5A",
+  "url": "/bostad/4108212"
+},{
+  "booliId": "4667251",
+  "daysActive": 26,
+  "descriptiveAreaName": "H\u00f6gstorp",
+  "latitude": 56.880176,
+  "listPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 800 000 kr"
+  },
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "120 m\u00b2"
+  },
+  "longitude": 14.848547,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-03",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 600 000 kr",
+    "raw": 3600000,
+    "unit": "kr",
+    "value": "3 600 000"
+  },
+  "soldPriceAbsoluteDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-200 000 kr"
+  },
+  "soldPricePercentageDiff": {
+    "__typename": "FormattedValue",
+    "formatted": "-5.3 %",
+    "raw": -5.3
+  },
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "30 000 kr/m\u00b2"
+  },
+  "streetAddress": "L\u00f6vs\u00e5ngarev\u00e4gen 12",
+  "url": "/bostad/2512355"
+},{
+  "booliId": "-10191917",
+  "daysActive": null,
+  "descriptiveAreaName": "V\u00e4xj\u00f6",
+  "latitude": 56.846339,
+  "listPrice": null,
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "108 m\u00b2"
+  },
+  "longitude": 14.806403,
+  "objectType": "Kedjehus",
+  "rooms": null,
+  "soldDate": "2022-11-11",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "3 800 000 kr",
+    "raw": 3800000,
+    "unit": "kr",
+    "value": "3 800 000"
+  },
+  "soldPriceAbsoluteDiff": null,
+  "soldPricePercentageDiff": null,
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "35 200 kr/m\u00b2"
+  },
+  "streetAddress": "Lotusv\u00e4gen 18",
+  "url": "/bostad/1745905"
+},{
+  "booliId": "-10191861",
+  "daysActive": null,
+  "descriptiveAreaName": "V\u00e4xj\u00f6",
+  "latitude": 56.890867,
+  "listPrice": null,
+  "livingArea": {
+    "__typename": "FormattedValue",
+    "formatted": "85 m\u00b2"
+  },
+  "longitude": 14.787199,
+  "objectType": "Villa",
+  "rooms": null,
+  "soldDate": "2022-11-11",
+  "soldPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "2 850 000 kr",
+    "raw": 2850000,
+    "unit": "kr",
+    "value": "2 850 000"
+  },
+  "soldPriceAbsoluteDiff": null,
+  "soldPricePercentageDiff": null,
+  "soldPriceType": "Lagfart",
+  "soldSqmPrice": {
+    "__typename": "FormattedValue",
+    "formatted": "33 500 kr/m\u00b2"
+  },
+  "streetAddress": "Lojov\u00e4gen 11",
+  "url": "/bostad/2543950"
+}]
