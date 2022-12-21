@@ -31,4 +31,5 @@ def normalize(arr, t_min, t_max):
 def fitdataToPlot(data, xSize, ySize):
   data[:,1] = np.rint(normalize(data[:,1],0, xSize))
   data[:,0] = np.rint(normalize(data[:,0], 0, ySize))
+  #data[:,2] =  data[:,2] - int(np.mean(data[:,2]))
   return data

@@ -1,13 +1,7 @@
-import numpy as np
+import seaborn as sn
 import matplotlib.pyplot as plt
-
-plt.rcParams["figure.figsize"] = [7.50, 3.50]
-plt.rcParams["figure.autolayout"] = True
-
-x, y, z = np.random.rand(3, 50)
-f, ax = plt.subplots()
-
-points = ax.scatter(x, y, c=z, s=50, cmap="plasma")
-f.colorbar(points)
-
+import numpy as np
+import pandas
+data = pandas.read_csv("C:/mtcars.csv")
+res = sn.kdeplot(data['mpg'],data['qsec'],color='blue',shade=True)
 plt.show()
